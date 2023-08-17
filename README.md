@@ -57,9 +57,3 @@ The following dependencies are included in this boilerplate:
 ## Author
 
 This boilerplate is created and maintained by SpicoDer.
-
-## License
-
-This project is licensed under the ISC License.
-
-Feel free to customize and extend this boilerplate to suit your project's needs. Happy coding!
